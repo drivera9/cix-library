@@ -1,0 +1,39 @@
+{
+  "cervezas": [
+    {
+      "nombre": "IPA",
+      "descripcion": "Una cerveza de estilo India Pale Ale con un sabor amargo y fuerte aroma a lúpulo.",
+      "origen": "Inglaterra",
+      "porcentaje_alcohol": 6.5,
+      "color": "Dorado"
+    },
+    {
+      "nombre": "Stout",
+      "descripcion": "Una cerveza oscura y fuerte con sabores tostados, chocolate y café.",
+      "origen": "Irlanda",
+      "porcentaje_alcohol": 4.8,
+      "color": "Negro"
+    },
+    {
+      "nombre": "Witbier",
+      "descripcion": "Una cerveza belga de trigo con un sabor refrescante, notas cítricas y especiadas.",
+      "origen": "Bélgica",
+      "porcentaje_alcohol": 5.0,
+      "color": "Pálido"
+    },
+    {
+      "nombre": "Pilsner",
+      "descripcion": "Una cerveza lager de color dorado claro, con un sabor suave y refrescante.",
+      "origen": "República Checa",
+      "porcentaje_alcohol": 4.7,
+      "color": "Dorado claro"
+    },
+    {
+      "nombre": "Amber Ale",
+      "descripcion": "Una cerveza de color ámbar con sabores tostados y caramelo.",
+      "origen": "Estados Unidos",
+      "porcentaje_alcohol": 5.5,
+      "color": "Ámbar"
+    }
+  ]
+}

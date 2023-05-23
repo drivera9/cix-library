@@ -1,0 +1,18 @@
+{
+  "name": "cix-library",
+  "version": "1.0.0",
+  "description": "Libreria de componentes para el cix",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "build-css": "tailwindcss build ./src/css/styles.css -o ./src/css/output.css"
+  },
+  "author": "David Rivera",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
