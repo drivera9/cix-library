@@ -1,4 +1,9 @@
-var cervezas = require('./cervezas.json')
-module.exports = {
-  todas: cervezas
+function MyComponent() {
+  return (
+    <div>
+      Este es mi componente personalizado con Tailwind CSS.
+    </div>
+  );
 }
+
+export default MyComponent;

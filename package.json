@@ -1,6 +1,6 @@
 {
   "name": "cix-library",
-  "version": "1.0.0",
+  "version": "2.0.3",
   "description": "Libreria de componentes para el cix",
   "main": "index.js",
   "directories": {
@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
   }
 }
